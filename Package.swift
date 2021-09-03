@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "Dwifft",
     platforms: [
-        .iOS(.v12),
+        .iOS(.v11),
         .tvOS(.v9),
         .macOS(.v10_11)
     ],
